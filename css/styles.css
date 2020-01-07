@@ -1,6 +1,4 @@
 @tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 @font-face {
   font-family: Yekan;
@@ -11,3 +9,6 @@
   font-family: IranSans;
   src: url(./IRANSansWeb.woff);
 }
+
+@tailwind components;
+@tailwind utilities;
